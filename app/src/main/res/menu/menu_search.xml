@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Thể loại" >
+        <menu >
+            <item
+                android:id="@+id/sr_tl_hd"
+                android:title="@string/sr_tl_hd" />
+            <item
+                android:id="@+id/sr_tl_ct"
+                android:title="@string/sr_tl_ct" />
+            <item
+                android:id="@+id/sr_tl_khac"
+                android:title="@string/sr_tl_khac" />
+        </menu>
+    </item>
+    <item android:title="Quốc gia" >
+        <menu >
+            <item
+                android:id="@+id/sr_qg_khac"
+                android:title="@string/sr_qg_khac" />
+            <item
+                android:id="@+id/sr_qg_trung"
+                android:title="@string/sr_qg_trung"/>
+            <item
+                android:id="@+id/sr_qg_au"
+                android:title="@string/sr_qg_au" />
+        </menu>
+    </item>
+</menu>

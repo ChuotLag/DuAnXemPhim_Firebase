@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ứng dụng xem phim trực tuyến</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_history">History</string>
+    <string name="sr_tl_hd">Hành động</string>
+    <string name="sr_tl_khac">Khác</string>
+    <string name="sr_tl_ct">Cổ trang</string>
+    <string name="sr_qg_khac">Khác</string>
+    <string name="sr_qg_trung">Trung Quốc</string>
+    <string name="sr_qg_au">Âu Mỹ</string>
+
+
+    <string name="movie_hint">Name…</string>
+</resources>

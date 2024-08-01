@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514212038349",
+    "firebase_url": "https://movie-webview-default-rtdb.firebaseio.com",
+    "project_id": "movie-webview",
+    "storage_bucket": "movie-webview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514212038349:android:869794e5730c18463ecb84",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514212038349-lu8ulkiushjri0i4t00nh0s69j01qmpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPllDEs0OJM4WPNIz-QcRjKlURhrEnb9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514212038349-lu8ulkiushjri0i4t00nh0s69j01qmpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
